@@ -1,0 +1,10 @@
+<item>
+<!--  الإصدار الجديد من برنامجك. يجب أن يكون أعلى من الإصدار الحالي  -->
+<version>1.0.0.1</version>
+<!--  الرابط الكامل للملف التنفيذي للتحديث الذي سترفعه على GitHub  -->
+<url>https://github.com/Aziz-Solh/SalesApp-Updates/releases/download/v1.0.0.1/SalesManagementSystem.WPF.exe</url>
+<!--  وصف التغييرات التي ستظهر للمستخدم  -->
+<changelog>https://github.com/Aziz-Solh/SPOSCoffeeSmallSystem/blob/main/changelog.txt</changelog>
+<!--  (اختياري ) اجعل التحديث إجبارياً  -->
+<mandatory>false</mandatory>
+</item>
